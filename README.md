@@ -22,3 +22,8 @@ Accuracy is measured using methods like:
 2. Log loss.
 3. F1-score.
 
+<h3>Credits:</h3>
+- course: https://www.coursera.org/learn/machine-learning-with-python
+- mentor: Dr. SAEED AGHABOZORGI.
+- environment: IBM Watson Studio.
+
