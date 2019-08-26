@@ -1,7 +1,7 @@
 # the-best-classifier
 This project was made under the Coursera Machine Learning course.
 
-Run the the-best-classifier.ipynb file to execute the project.
+Run the best-classifier.ipynb file to execute the project.
 
 It uses IBM Watson Studio environment.
 
